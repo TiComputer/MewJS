@@ -1,2 +1,2 @@
 # MewJS
-A revolutionary JavaScript addon
+A revolutionary JavaScript code improver
