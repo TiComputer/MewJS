@@ -1,5 +1,5 @@
 # MewJS
-**A revolutionary JavaScript code improver**
+**A revolutionary JavaScript code improver which can be put in any of your HTML projects**
 <hr>
 Functions in MewJS include:
 
