@@ -1,6 +1,6 @@
 # MewJS
-A revolutionary JavaScript code improver
-
+**A revolutionary JavaScript code improver**
+<hr>
 Functions in MewJS include:
 
 mewImage();
